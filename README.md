@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hjle2
 
 ![hjle2's github stats](https://github-readme-stats.vercel.app/api?username=hjle2&show_icons=true&theme=tokyonight)
-- 👀 I’m trying to be cool 
+- 👀 I’m trying to be better than yesterday
 - 🌱 I’m currently learning spring boot webservice
 - 💞️ I’m looking to collaborate ..,
 - 📫 How to reach me : 02q09q@hjhyeon29@gmail.com
