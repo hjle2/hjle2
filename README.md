@@ -1,9 +1,10 @@
-- ![hjle2's github stats](https://github-readme-stats.vercel.app/api?username=hjle2&show_icons=true&theme=merko)
 - 👋 Hi, I’m @hjle2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+![hjle2's github stats](https://github-readme-stats.vercel.app/api?username=hjle2&show_icons=true&theme=tokyonight)
+- 👀 I’m trying to be cool 
+- 🌱 I’m currently learning spring boot webservice
+- 💞️ I’m looking to collaborate ..,
+- 📫 How to reach me : 02q09q@hjhyeon29@gmail.com
 - 👍 I started 1 commit 1 day on 24/03/2021
 
 <!---
