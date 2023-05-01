@@ -3,6 +3,7 @@
 - 📫 How to reach me : 02q09q@gmail.com
 
 ![hjle2's github stats](https://github-readme-stats.vercel.app/api?username=hjle2&show_icons=true)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hihyeon29)](https://solved.ac/hihyeon29/)
 <p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
