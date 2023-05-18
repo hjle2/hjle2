@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Hi%20there,,&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Hello&fontSize=70)
 
 <div align="center">
 <p>
