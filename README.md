@@ -29,4 +29,4 @@ You can click the Preview link to take a look at your changes.
 
 👋 Hi there, I’m @hjle2
 <p>
-📫 How to reach me : 02q09q@gmail.com
+📫 How to reach me : 02q09q@naver.com
